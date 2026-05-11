@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
 import DataJson from "../utils/data.json";
 
 export default function Home() {
